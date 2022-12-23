@@ -1,8 +1,8 @@
 ### Hi Guys 👋
-- 🔭 I’m currently studying at Hanoi University of Mining & Geology, major Information Systems 
-- 🌱 I’m learning Data Analysis and Machine Learning 
-- 🌱 My skills: Python (Numpy, Pandas, sk-learn, seaborn), SQL, Excel
-- 🤔 I'm looking for help with any knowledge from Data Science
-- 😄 Pronouns: she/her
-- 📫 Contact me: chuthuyen2k@gmail.com
+- 🔭 I've graduated at Hanoi University of Mining & Geology, my major is Information System
+- 🌱 I’m focus on Data Analysis and Machine Learning, and looking for help with any knowledge in Data Science field
+- 🌱 My skills: Python (such as Numpy, Pandas, sk-learn, seaborn, matplotlib), SQL, Excel
+- 📫 Contact me: 
+    -  Phone number: 0789122678
+    -  Email: phanhuyen20x@gmail.com
 
